@@ -57,10 +57,10 @@ npx expo start
 ## Capturas de pantalla
 
 ### Pantalla principal
-![Pantalla principal](screenshots/home.jpg "Pantalla principal")
+![Pantalla principal](screenshots/home.png "Pantalla principal")
 
 ### Ingresar búsqueda
-![Ingresar búsqueda](screenshots/search.jpg "Ingresar búsqueda")
+![Ingresar búsqueda](screenshots/search.png "Ingresar búsqueda")
 
 ### Ver resultados
-![Ver resultados](screenshots/results.jpg "Ver resultados")
+![Ver resultados](screenshots/results.png "Ver resultados")
